@@ -1,6 +1,6 @@
 ## 안녕하세요, 오윤식 포트폴리오에 오신걸 환영합니다. 👋
 
-I'm **[Your Name]**, a passionate developer and designer from South Korea.
+I'm **[오윤식]**, a passionate developer and designer from South Korea.
 
 - 🔭 I’m currently working on [Your Current Project or Job]
 - 🌱 I’m currently learning [Current Learning Focus, e.g., Web3, AI, etc.]
@@ -26,8 +26,7 @@ I'm **[Your Name]**, a passionate developer and designer from South Korea.
   <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
-  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> 
-  <br>
+  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
